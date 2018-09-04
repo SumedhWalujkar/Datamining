@@ -304,7 +304,7 @@ elif(temper1==1):
 """
 Created on Sat Nov 10  23:54:56 2017
 
-@author: Sumedh Walujkar && Akhil Gangeneni
+@author: Sumedh Walujkar
 
 
 """
